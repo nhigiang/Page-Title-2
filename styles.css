@@ -1,0 +1,81 @@
+body {
+    text-align: center;
+    background-image: url("https://us.123rf.com/450wm/alonastep/alonastep1612/alonastep161200597/67867237-gold-confetti-celebration-isolated-on-black-background-falling-golden-abstract-decoration-for-party-.jpg?ver=6");
+    background-color: #cccccc;
+}
+
+
+
+h1 {
+    font-family: 'Rye', cursive;
+    text-shadow: 4px 4px yellow;
+    color: gold;
+    font-size: 50px;
+    border: 10px double lightyellow;
+    padding: 5px;
+}
+
+
+.bestmovie {
+    font-family: 'Playball', cursive;
+    text-shadow: 3px 3px brown;
+    color: navajowhite;
+    font-size: 45px;
+
+}
+
+.bestartist {
+    font-family: 'Emilys Candy', cursive;
+    text-shadow: 3px 3px magenta;
+    color: aqua;
+    font-size: 35px;
+}
+
+.bestgame {
+    font-family: 'Berkshire Swash', cursive;
+    color: crimson;
+    text-shadow: 3px 3px blue;
+    font-size: 35px;
+
+}
+
+.most {
+    font-family: 'Cabin Sketch', cursive;
+    color: powderblue;
+    text-shadow: 3px 3px white;
+    font-size: 35px;
+}
+
+img {
+    width: 500px;
+
+}
+
+.movie {
+    border: groove snow 9px;
+    padding: 20px;
+    background-color: tan;
+}
+
+.game {
+    border: solid lightcyan 6px;
+    padding: 20px;
+    margin: 30px;
+    background-color: pink;
+}
+
+
+.artist {
+    border: dotted aqua 6px;
+    background-color: hotpink;
+    margin: 30px;
+    border-radius: 200px;
+
+}
+
+.person {
+    border: dotted aliceblue 6px;
+    background-color: lightseagreen;
+    margin: 30px;
+    border-radius: 200px;
+}
